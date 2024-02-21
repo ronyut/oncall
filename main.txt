@@ -1,2 +1,4 @@
+The fox likes hurricanes and ice creams, but the dog likes cats and mushrooms.
+
 Question: where are the keys?
 Answer: inside the kangaroo’s pocket
